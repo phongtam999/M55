@@ -1,0 +1,10 @@
+#Clock-style {
+    padding: 40px;
+    border-style: solid;
+    box-shadow: #28342b;
+    border-radius: 100px;
+    text-align: center;
+    font-weight: 1000;
+    background-color: rgb(47, 130, 39);
+    color: rgb(255, 255, 255);
+  }
